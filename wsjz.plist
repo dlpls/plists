@@ -13,22 +13,6 @@
                    <key>url</key>
                    <string>http://oqgp6q50t.bkt.clouddn.com/WeChat_0612_2.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://app.paoxian.top/ip.png</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://app.paoxian.top/ip.png</string>
-               </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
